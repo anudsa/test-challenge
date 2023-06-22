@@ -3,7 +3,7 @@ const { default: expect } = require('expect');
 const calculator = require('../calculator');
 
 test('adds a + b', () => {
-    //
+    //s
 })
 
 test('substracts a - b', () => {
