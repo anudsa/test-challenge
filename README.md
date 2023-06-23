@@ -4,7 +4,7 @@
 
 ### What is this
 - It's just a small excercise
-- Focused for unit tests with Jest
+- Focused on unit testing with Jest
 - It can be refactored
 - It can be optimized
 
