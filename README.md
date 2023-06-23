@@ -15,8 +15,8 @@
 - That's it
 
 ### Components
-  - ```calculator.js``` and ```users.js``` has all main methods to test
-  - Inside  ```tests``` directory is where you should write you test cases
+  - ```calculator.js``` and ```users.js``` have all main methods to test
+  - Inside  the ```tests``` directory is where you should write your test cases
   - ```data.js``` contains an array of user data. This is your data to manipulate.
   - You can ignore ```index.js```
 
